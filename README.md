@@ -31,9 +31,10 @@ Welcome to my GitHub profile! Here you'll find a collection of projects includin
    - Technologies: Kotlin, Android SDK
 
 ## Contact
-If you have any questions or suggestions regarding any of these projects, feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) or through GitHub.
+If you have any questions or suggestions regarding any of these projects, feel free to reach out to me via email at [anutripathi107@gmail.com](mailto:anutripathi107@gmail.com) or through GitHub.
 
 Happy coding!
+
 
 
 
